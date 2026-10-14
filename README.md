@@ -89,7 +89,7 @@ Through this experiment, I explored:
 
 ## Acknowledgement
 
-This project is an educational experiment to understand decoder-only Transformer architectures and the fundamentals of Generative AI.
+This project is an educational experiment to understand decoder-only Transformer architectures and the fundamentals of Generative AI. The project is intended primarily for learning and understanding the underlying process rather than building a production-ready language model.
 
 ---
 
